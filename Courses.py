@@ -1,5 +1,5 @@
 ds_course = [['Machine Learning Crash Course by Google [Free]', 'https://developers.google.com/machine-learning/crash-course'],
-             ['Machine Learning A-Z by Udemy','https://www.udemy.com/course/machinelearning/'],
+             ['Machine Learning A-Z by Udemy','https://www.udemy.com/course/machinelearning/'], 
              ['Machine Learning by Andrew NG','https://www.coursera.org/learn/machine-learning'],
              ['Data Scientist Master Program of Simplilearn (IBM)','https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training'],
              ['Data Science Foundations: Fundamentals by LinkedIn','https://www.linkedin.com/learning/data-science-foundations-fundamentals-5'],
